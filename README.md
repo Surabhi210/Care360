@@ -19,6 +19,8 @@ Real-time Bed Availability – Live tracking of ICU, emergency, and general beds
 
 Medicine Availability Tracking – Patients can check which hospitals/pharmacies have required medicines.
 
+Facility & Service Discovery – Users can check which hospitals offer specific treatments, specialties and services.
+
 Integrated e-Pharmacy – Buy medicines online with doorstep delivery.
 
 My Cart: Users can review their selected medicines and proceed to checkout.
