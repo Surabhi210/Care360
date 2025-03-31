@@ -14,7 +14,11 @@ When users open the app, they can either log in or, if they are first-time users
 5. Purchase medicines online through the E-pharmacy
 
 Online Appointment Booking – Patients can book their appointments online without hassle of long wait times.
+
 Real-time Bed Availability – Live tracking of ICU, emergency, and general beds. Helps emergency patients find hospitals with available beds quickly.
+
 Medicine Availability Tracking – Patients can check which hospitals/pharmacies have required medicines.
+
 Integrated e-Pharmacy – Buy medicines online with doorstep delivery.
+
 My Cart: Users can review their selected medicines and proceed to checkout.
