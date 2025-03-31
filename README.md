@@ -1,5 +1,11 @@
 # Care360
 
+Code Beyond By Surabhi Sethi and Tayyaba Noor
+
+Figma prototype :-
+https://www.figma.com/design/tJ12E8jqJNu9WPrugdjyT8/Care360?node-id=0-1&p=f&t=MClpKnd2skpl48MI-0 
+
+
 When users open the app, they can either log in or, if they are first-time users, sign up. After logging in, they are directed to the home page, where they can:
 1. Book an online appointment
 2. Check real-time hospital bed availability in nearby hospitals
